@@ -10,7 +10,7 @@
 		<center>
 			<h1>Hello world</h1><br/><br/><br/>
 			<marquee>GitHub Testing success</marquee>
-			<h1>Edited in Github</h1>
+			<h1>Pull testing</h1>
 			<p>OMGGGGGGGGGGGGG..............!!!!!!!!!!!</p>
 		</center>
 	</body>
