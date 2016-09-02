@@ -11,7 +11,7 @@
 			<h1>Hello world</h1><br/><br/><br/>
 			<marquee>GitHub Testing success</marquee>
 			<h1>Edited in Github</h1>
-			<p>Something is wrong.... why not Fetching???</p>
+			<p>Now its working...</p>
 		</center>
 	</body>
 </html>
